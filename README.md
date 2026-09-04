@@ -18,7 +18,7 @@ TextBox.Parent = Frame
 TextBox.Size = UDim2.new(0.8, 0, 0, 30)
 TextBox.Position = UDim2.new(0.1, 0, 0.2, 0)
 TextBox.PlaceholderText = "X, Y, Z (Ex: 0, -0.35, -0.25)"
-TextBox.Text = "0"
+TextBox.Text = "100"
 
 ApplyButton.Parent = Frame
 ApplyButton.Size = UDim2.new(0.8, 0, 0, 40)
